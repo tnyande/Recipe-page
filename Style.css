@@ -1,0 +1,51 @@
+
+body{
+    background-color: rgb(253, 155, 138);
+    color:black;
+    font-family: 'Supermercado One', cursive, Verdana, Geneva, Tahoma, sans-serif;
+    content: normal;
+    
+}
+
+
+li{
+    margin-left: 5px;
+}
+
+h2{
+    margin-top: 10px;
+}
+.ins{
+    width: 45%;
+}
+.cook-ins{
+    margin-top: 20px;
+}
+
+.container{
+    display: inline-block;
+    width: 100%;
+    padding: 0%;
+}
+.cook{
+    width: 100%;
+}
+#dish-img{
+    display: inline;
+    float: left;
+    width: 50%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#dish-img img{
+    width: 100%;
+    height: 780px;
+}
+#instructions {
+    display: flex;
+    float: right;
+    width: 50%;
+    margin: 0%;
+    padding: 0%;
+}
